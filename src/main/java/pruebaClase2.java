@@ -9,5 +9,5 @@
  * @author Pascu
  */
 public class pruebaClase2 {
-    
+    public int raiden77;
 }

@@ -10,4 +10,5 @@
  */
 public class pruebaClase2 {
     public int raiden77;
+    public int raiden772;
 }
